@@ -1,7 +1,7 @@
 # Salinas Paradise Travel
 
 ## Nombre del estudiante
-Dayana Mera R.
+Dayana Rodriguez Mera.
 
 ## Destino turístico asignado
 Salinas, provincia de Santa Elena - Ecuador.
@@ -47,8 +47,8 @@ Agregar aquí una captura de pantalla de la página principal una vez finalizado
 
 ## URL del sitio publicado
 
-https://usuario.github.io/agencia-turismo/
+https://drodriguezmuteq.github.io/ProyectoSalinas/
 
 ## Autor
 
-Dayana Rodriguez 
+Dayana Cecibel Rodriguez Mera
